@@ -6,6 +6,9 @@ function [colormap_data] = load_mh_ct(n_colors,keyword)
 %The function will automatically use a purple scale keyword is not set
 %define colors for bar
 %these colors can be entered and adapted using https://colorbrewer2.org/
+%
+%%Written by Frances Staples on 3rd May 2023
+
 
 switch keyword    
     case 'greens'

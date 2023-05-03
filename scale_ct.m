@@ -11,6 +11,8 @@ function [colormap_data] = scale_ct(range,num_colors, keyword)
 %
 %The function will automatically use a blue to red scale if other color
 %scales are not set
+%
+%Written by Frances Staples on 3rd May 2023
 
 
 

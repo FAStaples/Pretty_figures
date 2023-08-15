@@ -18,7 +18,7 @@ function [colormap_data] = scale_ct(range,num_colors, keyword)
 
 switch keyword    
     case 'PuOr'
-        cbmax=[127 59 8];
+        cbmax=[179,88,6];
         cbmin=[45 0 75];
     case'PrGn'
         cbmax=[64 0 75];

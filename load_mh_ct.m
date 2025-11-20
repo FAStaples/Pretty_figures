@@ -116,3 +116,5 @@ colormap_data(:,3) = interp1((1:cols_length), cols(:,3), linspace(1,cols_length,
 % Normalize the new vector between 0 and 1
 colormap_data = colormap_data /255;
 
+
+
